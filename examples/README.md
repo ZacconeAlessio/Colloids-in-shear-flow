@@ -68,9 +68,11 @@ Colloid and Polymer Science 298, 761–771 (2020)
 
 # Usage
 
-Before running the examples, ensure MATLAB can access the `src/` directory.
+Open MATLAB and navigate to the desired example directory.
 
-Each script already contains:
+For the Lennard-Jones examples:
 
 ```matlab
-addpath('../../src')
+cd examples/reproduce_PRE_2019
+run_LJ_compression
+run_LJ_extension
