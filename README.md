@@ -5,7 +5,7 @@ MATLAB codes accompanying:
 1. Banetta & Zaccone, Physical Review E 99, 052606 (2019)
 2. Banetta & Zaccone, Colloid and Polymer Science 298, 761–771 (2020)
 
-The repository computes radial/pair distribution functions of interacting colloidal particles under shear flow using intermediate asymptotics solutions of the Smoluchowski equation.
+The repository computes radial/pair distribution functions of interacting colloidal particles under shear flow (inclusive of hydrodynamic interactions) using intermediate asymptotics solutions of the Smoluchowski equation.
 
 ---
 
