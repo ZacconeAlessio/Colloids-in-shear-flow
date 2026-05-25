@@ -11,7 +11,7 @@ The repository computes radial/pair distribution functions of interacting colloi
 
 ## Example result
 
-Radial distribution function of interacting colloids under shear flow.
+Radial distribution function of interacting colloids under shear flow (averaged over compressional and extensional sectors of the solid angle).
 
 ![rdf](results/figures/rdf_example.png)
 
