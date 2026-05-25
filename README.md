@@ -36,16 +36,7 @@ Radial distribution function of interacting colloids under shear flow (averaged 
 
 ---
 
-## Reproducing the PRE 2019 Lennard-Jones results
-
-```matlab
-cd examples/reproduce_PRE_2019
-run_LJ_compression
-run_LJ_extension
-
----
-
-# Citation
+## Citation
 
 **If you use this code in academic work, please cite:**
 
@@ -58,3 +49,14 @@ and/or
 L. Banetta and A. Zaccone,  
 *Pair correlation function of charge-stabilized colloidal systems under sheared conditions*,  
 Colloid Polym Sci 298, 761–771 (2020).
+
+---
+
+## Reproducing the PRE 2019 Lennard-Jones results
+
+```matlab
+cd examples/reproduce_PRE_2019
+run_LJ_compression
+run_LJ_extension
+
+---
