@@ -9,6 +9,14 @@ The repository computes radial/pair distribution functions of interacting colloi
 
 ---
 
+## Example result
+
+Radial distribution function of interacting colloids under shear flow.
+
+![rdf](results/figures/rdf_example.png)
+
+---
+
 ## Repository structure
 
 src/
