@@ -1,0 +1,13 @@
+plot(results(:,1),results(:,2),'k','LineWidth',6);
+title(['\fontsize{60}(a)']);
+legend('Pe = 1000','location','east','FontSize',60);
+legend('boxoff');
+ax = gca;
+ax.FontSize = 45;
+ax.LineWidth = 3;
+xlabel('r/\sigma ');
+ylabel(' g_c(r/\sigma)');
+set(gcf,'color','w');
+set(gca,'TickDir','out');
+ylim([1 max(results(:,2))+0.1*max(results(:,2))]);
+xlim([1 1.06]);
