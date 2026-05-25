@@ -19,19 +19,19 @@ Radial distribution function of interacting colloids under shear flow (averaged 
 
 ## Repository structure
 
-src/
+`src/`
 : core numerical routines
 
-examples/
+`examples/`
 : scripts reproducing the published results
 
-notebooks/
+`notebooks/`
 : Mathematica derivations and symbolic calculations
 
-results/
+`results/`
 : generated figures and output data
 
-legacy/
+`legacy/`
 : deprecated or experimental scripts
 
 ---
