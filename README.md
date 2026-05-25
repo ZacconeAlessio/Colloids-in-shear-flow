@@ -45,7 +45,7 @@ run_LJ_extension
 
 ---
 
-## Citation
+# Citation
 
 **If you use this code in academic work, please cite:**
 
