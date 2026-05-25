@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Colloids in shear flow"
+message: "If you use this code, please cite the associated papers."
+type: software
+
+authors:
+  - family-names: "Zaccone"
+    given-names: "Alessio"
+
+repository-code: "https://github.com/ZacconeAlessio/Colloids-in-shear-flow"
+
+keywords:
+  - colloids
+  - shear flow
+  - smoluchowski equation
+  - soft matter
+  - rheology
+  - hydrodynamics
+  - matlab
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Banetta"
+      given-names: "Luca"
+    - family-names: "Zaccone"
+      given-names: "Alessio"
+
+  title: "Radial distribution function of Lennard-Jones fluids in shear flows from intermediate asymptotics"
+
+  journal: "Physical Review E"
+  year: 2019
+  volume: 99
+  issue: 5
+  doi: "10.1103/PhysRevE.99.052606"
