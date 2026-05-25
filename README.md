@@ -1,4 +1,4 @@
-# Colloids in shear flow
+# Colloidal Microstructure under Shear
 
 MATLAB codes accompanying:
 
