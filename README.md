@@ -42,3 +42,19 @@ Radial distribution function of interacting colloids under shear flow (averaged 
 cd examples/reproduce_PRE_2019
 run_LJ_compression
 run_LJ_extension
+
+---
+
+## Citation
+
+**If you use this code in academic work, please cite:**
+
+L. Banetta and A. Zaccone,  
+*Radial distribution function of Lennard-Jones fluids in shear flows from intermediate asymptotics*,  
+Phys. Rev. E 99, 052606 (2019).
+
+and/or
+
+L. Banetta and A. Zaccone,  
+*Pair correlation function of charge-stabilized colloidal systems under sheared conditions*,  
+Colloid Polym Sci 298, 761–771 (2020).
