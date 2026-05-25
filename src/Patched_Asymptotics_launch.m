@@ -9,7 +9,7 @@ Physical_Constants_Perturbation
 potential = 'Yukawa';                  % OPTIONS : Lennard-Jones, Yukawa (Hard sphere choosing lambda = Umin = 0 for every potential adopted)
 quadrants = 'compressing';             % OPTIONS: compressing, extensional
 hydrodynamics = 'yes';                 % OPTIONS: yes/no hydrodynamic interactions (lubrication forces)
-Pe = 1000;                             % Péclet number
+Pe = 1000;                             % PÃ©clet number
 epsilon = 1/Pe;                        % Perturbation parameter
 delta = 1/Pe;                          % width of the boundary layer: for high Peclet it is proportional to the perturbation parameter
 
